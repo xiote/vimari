@@ -3,7 +3,7 @@ function getSettings() {
         'modifier': undefined,
         'excludedUrls': '',
 
-        'hintToggle': 'f',
+        'hintToggle': 'o',
         'newTabHintToggle': 'shift+f',
         'linkHintCharacters': 'asdfjklqwerzxc',
         'detectByCursorStyle': false,
@@ -23,7 +23,7 @@ function getSettings() {
         'reload': 'r',
         'tabForward': 'w',
         'tabBack': 'q',
-        'closeTab': 'x',
+        'closeTab': 'e',
         'closeTabReverse': 'shift+x',
 
         'openTab': 't',
