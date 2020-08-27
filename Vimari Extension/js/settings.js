@@ -3,7 +3,7 @@ function getSettings() {
         'modifier': undefined,
         'excludedUrls': '',
 
-        'hintToggle': 'o',
+        'hintToggle': 'f',
         'newTabHintToggle': 'shift+f',
         'linkHintCharacters': 'asdfjklqwerzxc',
         'detectByCursorStyle': false,
@@ -13,18 +13,18 @@ function getSettings() {
         'scrollLeft': 'h',
         'scrollRight': 'l',
         'scrollSize': 50,
-        'scrollUpHalfPage': 'u',
-        'scrollDownHalfPage': 'd',
+        'scrollUpHalfPage': 'shift+k',
+        'scrollDownHalfPage': 'shift+j',
         'goToPageTop': 'g g',
         'goToPageBottom': 'shift+g',
 
-        'goBack': 'shift+h',
-        'goForward': 'shift+l',
+        'goBack': '[',
+        'goForward': ']',
         'reload': 'r',
         'tabForward': 'w',
         'tabBack': 'q',
-        'closeTab': 'e',
-        'closeTabReverse': 'shift+x',
+        'closeTab': 'd',
+        'closeTabReverse': 'u',
 
         'openTab': 't',
     };
